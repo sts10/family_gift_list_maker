@@ -1,5 +1,7 @@
 # Family Gift (Secret Santa) List Maker
 
+**Note**: A newer version of this program is now called [fgift](https://github.com/sts10/fgift).
+
 Takes an input of a CSV file, describing an extended family, with each line an immediate family. Outputs a list of who should give to who, ensuring that no one gives to anyone in their immediate family, but otherwise selecting randomly.
 
 Obviously you could substitute the concept of "families" for small teams at your work.
